@@ -1,1 +1,1 @@
-# price_forecasting
+# Price Forecasting
